@@ -1,5 +1,5 @@
 # leafkin - 0.4.0
-leafkin is an R package to perform the calculations required for kinematic analysis of monocot leaves. The R package is accompanied by a publication in Quantitative Plant Biology and can be found through the following DOI: XXXXXXXX
+leafkin is an R package to perform the calculations required for kinematic analysis of monocot leaves. The R package is accompanied by a publication in Quantitative Plant Biology and can be found through the following DOI: 10.1017/qpb.2020.3
 
 
 ## Abstract:
